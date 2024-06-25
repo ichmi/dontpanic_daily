@@ -1,0 +1,19 @@
+info:
+  contact: {}
+paths:
+  /api:
+    post:
+      consumes:
+      - application/json
+      description: Game API description
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: Game API
+      tags:
+      - Game API
+swagger: "2.0"

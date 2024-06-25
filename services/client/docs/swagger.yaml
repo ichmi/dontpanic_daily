@@ -1,0 +1,20 @@
+basePath: /
+info:
+  contact: {}
+paths:
+  /:
+    get:
+      consumes:
+      - application/json
+      description: 42Labs server entrypoint
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            type: string
+      summary: Dontpanic-Daily
+      tags:
+      - Game
+swagger: "2.0"
