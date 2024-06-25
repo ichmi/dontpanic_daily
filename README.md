@@ -87,10 +87,8 @@ Propriedade comutativa __não__ é aplicada! Ou seja, `2+3 != 3+2`. A aplicaçã
 ## Desenvolvedores
 
 <div align="left">
-<a href="https://github.com/Warley-Juneo"  target="_blank"><img src="https://user-images.githubusercontent.com/84791310/182667505-cb3430ab-f381-4f7e-8d6f-1faf5ff5f3c8.png" width=115></a>
-<a href="https://github.com/maykonmori"  target="_blank"><img src="https://avatars.githubusercontent.com/u/76956361?v=4" width=115></a>
 <a href="https://github.com/ichmi"  target="_blank"><img src="https://avatars.githubusercontent.com/u/56981089?v=4" width=115 ></a>
 
-[<sub> Warley Juneo </sub>](https://github.com/Warley-Juneo)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<sub> Maykon Mori </sub>](https://github.com/maykonmori)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<sub>frosa-ma | Fábio</sub>](https://github.com/ichmi)
+[<sub>frosa-ma | Fábio</sub>](https://github.com/ichmi)
 
 </div>
